@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 col_1, col_2 = st.columns(2)
 
 with col_1:
-    st.image("./images/pic1.png", width=400)
+    st.image("images/pic1.png", width=400)
 with col_2:
     st.title("Kevin Hui")
     content = """
